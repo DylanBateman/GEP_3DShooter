@@ -27,7 +27,7 @@ This project was completed in the first semester of my 'Game Engine Programming'
 
 
 ## Goals & Requirements
-The goal for this assignment was to demonstrate my learning of game development techniques including; input, menus, UI, collisions, particles, lighting, etc and how they are applied using C# and the Unity game engine.
+The goal for this assignment was to demonstrate game development techniques including; input, menus, UI, collisions, particles, lighting, etc and their applications using C# and the Unity game engine as taught in the module.
 
 
 ## Project Thinking
