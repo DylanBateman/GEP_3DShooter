@@ -1,7 +1,7 @@
 
 # 3D Shooter
 
-In this project I created a 3D first person shooter to demonstate my learning as well the skills I gained during the module within Unity and C#.
+'Shoot! Zombies' is a 3D first person shooter to demonstate my learning as well the skills I gained during the module within Unity and C#.
 
 This project was completed in the first semester of my 'Game Engine Programming' module in the second year of my 'Computer Games Development' degree at Staffordshire University.
 
@@ -20,6 +20,8 @@ This project was completed in the first semester of my 'Game Engine Programming'
 - Lighting
 - Collisions
 - AI
+- Enemy Wave System
+- Randomised Level Generator
 - SFX & Music
 - Win / Loss Conditions
 - Multiple Levels
