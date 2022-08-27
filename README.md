@@ -1,9 +1,7 @@
 
 # 3D Shooter
 
-'Shoot! Zombies' is a 3D first person shooter to demonstate my learning as well the skills I gained during the module within Unity and C#.
-
-This project was completed in the first semester of my 'Game Engine Programming' module in the second year of my 'Computer Games Development' degree at Staffordshire University.
+'Shoot! Zombies' is a 3D first person shooter to demonstate my learning and skills I gained within Unity and C# in the first semester of my 'Game Engine Programming' module in the second year of my 'Computer Games Development' degree at Staffordshire University.
 
 
 ## Tech Stack
